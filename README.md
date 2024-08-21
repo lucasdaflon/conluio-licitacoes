@@ -9,4 +9,4 @@ Os seguintes arquivos são necessários para execução completa do código:
 - dados brutos de licitações públicas do Governo Federal do Brasil, disponíveis em: https://portaldatransparencia.gov.br/download-de-dados/licitacoes
 - dados brutos de condenação de conluios, levantados a partir de condenações do CADE em https://www.gov.br/cade/
 
-Todos os dados brutos utilizados no trabalho estão publicados em: https://cefetrjbr-my.sharepoint.com/:f:/g/personal/12162898756_cefet-rj_br/EvUPujaKnnxDkMawtBBLRaMBBs9JBqolK7E7CWBxxm-WrA?e=7U37FE
+Todos os dados brutos utilizados no trabalho estão publicados em: https://cefetrjbr-my.sharepoint.com/:f:/g/personal/12162898756_cefet-rj_br/EvUPujaKnnxDkMawtBBLRaMBBs9JBqolK7E7CWBxxm-WrA?e=4GYKmS
