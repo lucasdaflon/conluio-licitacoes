@@ -5,7 +5,8 @@ Código fonte e dados utilizados no artigo 'Aprimoramento de modelos para detec�
 
 Os códigos estão escritos na linguagem python. A instalação de alguns pacotes são necessárias para execução completa do código. O início do código lista os pacotes requeridos, remova os comentários daqueles que precise de instalação.
 
-Na pasta dados foram disponibilizados:
-- dados brutos de licitações públicas do Governo Federal do Brasil, também disponíveis em: https://portaldatransparencia.gov.br/download-de-dados/licitacoes
+Os seguintes arquivos são necessários para execução completa do código:
+- dados brutos de licitações públicas do Governo Federal do Brasil, disponíveis em: https://portaldatransparencia.gov.br/download-de-dados/licitacoes
 - dados brutos de condenação de conluios, levantados a partir de condenações do CADE em https://www.gov.br/cade/
-- dados unidos e curados.
+
+Todos os dados brutos utilizados no trabalho estão publicados em: https://cefetrjbr-my.sharepoint.com/:f:/g/personal/12162898756_cefet-rj_br/EvUPujaKnnxDkMawtBBLRaMBBs9JBqolK7E7CWBxxm-WrA?e=7U37FE
