@@ -1,7 +1,9 @@
-# Aprimoramento de modelos para detecção de conluios em licitações públicas brasileiras com variáveis estatísticas e modelos explicáveis
+# APRIMORAMENTO DA DETECÇÃO DE CONLUIOS COM APRENDIZADO DE MÁQUINA: EXPLICABILIDADE E ANÁLISE DOS RESULTADOS
 ### Autores: Lucas Daflon, Kele Belloze e Diego Brandão (Cefet/RJ)
 
 Código fonte e dados utilizados no artigo 'Aprimoramento de modelos para detecção de conluios em licitações públicas brasileiras com variáveis estatísticas e modelos explicáveis', apresentado no SBBD 2024.
+
+Complementarmente, os códigos e dados foram atualizados para defesa de mestrado do Cefet/RJ, com o título: APRIMORAMENTO DA DETECÇÃO DE CONLUIOS COM APRENDIZADO DE MÁQUINA: EXPLICABILIDADE E ANÁLISE DOS RESULTADOS.
 
 Os códigos estão escritos na linguagem python. A instalação de alguns pacotes são necessárias para execução completa do código. O início do código lista os pacotes requeridos, remova os comentários daqueles que precise de instalação.
 
